@@ -150,7 +150,7 @@ We will still be using `config_UX330-KabyLakeR.plist` however we will edit it an
 ```
 
 10. Make sure the SMBIOS ProductName property is set to MacBookPro14,1 and you have a valid SmUUID, SerialNumber and BoardSerialNumber
-11. Follow the remaining steps on the [wiki](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH/wiki/Basic-Instruction)).
+11. Follow the remaining steps on the [wiki](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH/wiki/Basic-Instruction).
 
 If you have any questions, post an issue on this repository and I'll try my best to help you out!
 
