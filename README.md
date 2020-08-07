@@ -89,6 +89,8 @@ To do so, take a look at [@hieplpvip's][hieplpvip-url] [Guide to install macOS o
 
 If you encounter the same screen-flickering issue as I did and/or want to patch graphics in a non-depricated way, follow [these instructions][flicker-fix-url].
 
+**Note:** The SMBIOS parameters have been removed from the config.plist on this repository. Make sure that on your config the SMBIOS ProductName property is set to MacBookPro14,1 and you have a valid SmUUID, SerialNumber and BoardSerialNumber.
+
 ## Contact
 
 You can contact me at [abene1asus@gmail.com](mailto:abene1asus@gmail.com) if you have any questions about this specific model. I would recommend however contacting [@hieplpvip][hieplpvip-url] through Github (he's the real genius who made the ACPI patches and ASUS-specific kexts).

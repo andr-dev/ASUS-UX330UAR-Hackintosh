@@ -1004,7 +1004,6 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 	</dict>
-	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
